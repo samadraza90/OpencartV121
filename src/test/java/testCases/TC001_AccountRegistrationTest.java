@@ -43,6 +43,7 @@ public class TC001_AccountRegistrationTest extends BaseClass {
 		
 		String confmsg = regpage.getConfirmationMsg();
 		Assert.assertEquals(confmsg, "Your Account Has Been Created!", "Confirmation message mismatch");
+		System.out.println("TC001: Account registration is passed");
 
 		logger.info("Test passed");
 		} 

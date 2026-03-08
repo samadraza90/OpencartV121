@@ -1,17 +1,42 @@
-2026-03-08 01:18:24 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
-2026-03-08 01:18:25 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
-2026-03-08 01:18:25 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
-2026-03-08 01:18:25 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
-2026-03-08 01:18:27 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
-2026-03-08 01:18:27 INFO  TC001_AccountRegistrationTest:47 - Test passed
-2026-03-08 01:18:27 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
-2026-03-08 01:18:34 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
-2026-03-08 01:19:30 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
-2026-03-08 01:19:30 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
-2026-03-08 01:19:31 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
-2026-03-08 01:19:31 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
-2026-03-08 01:19:33 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
-2026-03-08 01:19:33 INFO  TC001_AccountRegistrationTest:47 - Test passed
-2026-03-08 01:19:33 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
-2026-03-08 01:19:39 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
-2026-03-08 01:19:41 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
+2026-03-09 01:03:00 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-03-09 01:03:10 ERROR TC001_AccountRegistrationTest:51 - Test failed: element not interactable
+  (Session info: chrome=145.0.7632.76)
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [76fcf8c55db2b7023c219b2b8e17af19, clickElement {id=f.638867FA19E8467B645EF81FD96540A7.d.0E6B60CB128E46C06FD6759EE5185A60.e.4}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.76, chrome: {chromedriverVersion: 145.0.7632.76 (ee36f024f43a..., userDataDir: C:\Users\samakhan\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52843}, goog:processID: 33880, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52843/devtoo..., se:cdpVersion: 145.0.7632.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (76fcf8c55db2b7023c219b2b8e17af19)] -> xpath: //span[normalize-space()='My Account']]
+Session ID: 76fcf8c55db2b7023c219b2b8e17af19
+2026-03-09 01:03:10 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2026-03-09 01:03:15 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2026-03-09 01:10:25 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-03-09 01:10:35 ERROR TC001_AccountRegistrationTest:51 - Test failed: element not interactable
+  (Session info: chrome=145.0.7632.76)
+Build info: version: '4.41.0', revision: '9fc754f'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [279ebdf4b563e17ec525be5401acab8a, clickElement {id=f.388C874FCBB03C9659AD57BF86ABB00B.d.6AF771F65D7A6CB97B4ABCC7D9682806.e.5}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 145.0.7632.76, chrome: {chromedriverVersion: 145.0.7632.76 (ee36f024f43a..., userDataDir: C:\Users\samakhan\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57250}, goog:processID: 21788, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57250/devtoo..., se:cdpVersion: 145.0.7632.76, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (279ebdf4b563e17ec525be5401acab8a)] -> xpath: //span[normalize-space()='My Account']]
+Session ID: 279ebdf4b563e17ec525be5401acab8a
+2026-03-09 01:10:35 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2026-03-09 01:10:41 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2026-03-09 01:19:13 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-03-09 01:19:13 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2026-03-09 01:19:14 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2026-03-09 01:19:14 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2026-03-09 01:19:15 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2026-03-09 01:19:15 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2026-03-09 01:19:15 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2026-03-09 01:19:20 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2026-03-09 01:19:22 INFO  TC002_LoginTest:41 - ****** Finished TC_002_LoginTest *****
+2026-03-09 01:24:27 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2026-03-09 01:24:27 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2026-03-09 01:24:28 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2026-03-09 01:24:28 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2026-03-09 01:24:30 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2026-03-09 01:24:30 INFO  TC001_AccountRegistrationTest:48 - Test passed
+2026-03-09 01:24:30 INFO  TC001_AccountRegistrationTest:57 - ***** Finished TC001_AccountRegistrationTest *****
+2026-03-09 01:24:34 INFO  TC002_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2026-03-09 01:24:35 INFO  TC002_LoginTest:42 - ****** Finished TC_002_LoginTest *****
